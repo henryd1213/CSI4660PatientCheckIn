@@ -1,0 +1,29 @@
+{
+  "name": "csi4999patientcheckin",
+  "version": "1.0.0",
+  "description": "csi4999patientcheckin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryd1213/4999PatientCheckIn.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "php",
+    "html"
+  ],
+  "author": "had",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryd1213/4999PatientCheckIn"
+  },
+  "homepage": "https://github.com/henryd1213/4999PatientCheckIn#readme",
+  "dependencies": {
+    "base-64": "^1.0.0"
+  }
+}
